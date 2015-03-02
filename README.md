@@ -1,4 +1,4 @@
-# My Own Linux Command 
+# mycmd 
 
 This project is all about creating own Linux command. However , many times we want to execute some
 programs repediatly.In order to reduce time this script generates own Linux command for often usage of task.
